@@ -23,9 +23,9 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 
 Here are a few projects I've been working on:
 
-- **[Interconnect](https://github.com/Calarioz/DS_Interconnect_FinalProject)**: Telecomunication's company looking to implement a solution to optimally identify potential customer churn.
+- **[Interconnect]([link to the project](https://github.com/Calarioz/DS_Interconnect_FinalProject)**: Telecomunication's company looking to implement a solution to optimally identify potential customer churn.
 - **[Rusty Bargain]([link to the project](https://github.com/Calarioz/DS_RustyBargain))**: Car sales service company looking for a ML model that can determine the value of a car based on some technical specifications.
-- **[Online store ice](https://github.com/Calarioz/DA_Games)**: A quick analysis about the life span of some platforms like xbox/playstation and their best sellers per genre.
+- **[Online store ice]([link to the project](https://github.com/Calarioz/DA_Games)**: A quick analysis about the life span of some platforms like xbox/playstation and their best sellers per genre.
 
 
 ## 🌐 Connect with me
