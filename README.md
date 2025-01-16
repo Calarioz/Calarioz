@@ -10,9 +10,12 @@ Welcome to my GitHub profile! I'm a passionate developer with a love for coding,
 ## 🛠️ Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python) 
+![MYSQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/-Excel-000000?style=flat&logo=microsoft-excel&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)
-![VS Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code)
+
 
 ## 📈 GitHub Stats
 
